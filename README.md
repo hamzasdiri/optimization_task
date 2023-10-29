@@ -5,13 +5,13 @@ This repository contains code to measure the performance of two sorting algorith
 Before you can run the code, ensure that you have the following prerequisites installed on your system:
 
 Node.js (for running the code)
+
 A modern web browser (for displaying the chart)
 
 ## Installation
 Clone this repository to your local machine:
 
 git clone https://github.com/hamzasdiri/optimization_task.git
-Change to the project directory:
 
 Install the necessary Node.js packages by running the following command:
 
@@ -23,7 +23,6 @@ To measure and display the performance of the sorting algorithms and view the re
 Open a terminal and navigate to the project directory.
 
 Run the code using Node.js with the following command:
-
 
 node performanceMeasurement.js
 
